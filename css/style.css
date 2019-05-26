@@ -1,0 +1,32 @@
+img {
+ max-width: 100%;
+ height: auto;
+ display: block;
+ margin: auto;
+ }
+
+h1 {
+ text-align: center;
+ font-family: "Rubik", sans-serif;
+ border: white 1px inset;
+  margin: 0px;
+}
+
+h2 {
+ text-align: center;
+ font-family: "Yanone Kaffeesatz", sans-serif;
+ border: white 1px inset;
+  margin: 0px;
+}
+
+div {
+ text-align: center;
+ font-family: "Crimson Text", serif;
+ background-color: #C8D5B9;
+}
+
+footers {
+ text-align: center;
+ font-family: "Indie Flower", cursive;
+ border: white 1px inset;
+}
